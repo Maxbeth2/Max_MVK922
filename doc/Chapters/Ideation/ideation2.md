@@ -20,4 +20,6 @@ Min tanke är att utveckla ett system för inspiration och kanalisering. Systeme
 
 Jag avser att testa priming som metod för att inspirera musikskapande. Tekniken kommer utformas och utvärderas enligt vissa kriterier. Mina förslag på dessa är:
 
-A.
+- Innehållet vid priming ska avspeglas i det producerade materialet.
+
+d.v.s. primat material ska inte bara låta "bättre" än oprimat. Det ska gå att identifiera skillnader i material som primats med olika avsikter.
